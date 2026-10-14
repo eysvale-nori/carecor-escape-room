@@ -16,3 +16,4 @@ import { MainDoorExit } from './components/rooms/MainDoorExit';
 import { RoomId, InventoryItem } from './types/game';
 import { sound } from './utils/sound';
 import { CheckCircle2, Clock, Key, RotateCcw, Trophy } from 'lucide-react';
+export default App;
